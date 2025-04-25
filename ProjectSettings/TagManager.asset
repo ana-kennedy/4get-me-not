@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Float
+  - Floor
+  - Ground
+  - Ball
+  - KeyDoor
+  - KeyDoor2
+  - Bigfoot
+  - Rocket
+  - Soundtrack
+  - EnvironmentEffects
+  - Wall
+  - GnomeSuit
+  - Gift
+  - GiftTile
+  - Snowball
+  - BaltoGround
+  - Balto
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - GiftTile
+  - Water
+  - UI
+  - Wall
+  - Ground
+  - Ball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: GiftTile
+    uniqueID: 2485311923
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall
+    uniqueID: 905520955
+    locked: 0
+  - name: Deco
+    uniqueID: 1094881727
+    locked: 0
+  - name: Ball
+    uniqueID: 567826171
+    locked: 0
+  - name: Effects
+    uniqueID: 1691425239
+    locked: 0
+  m_RenderingLayers:
+  - Default

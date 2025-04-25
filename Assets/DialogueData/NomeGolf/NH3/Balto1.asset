@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 742e6e6862d56448d83ff2e9e96649e0, type: 3}
+  m_Name: Balto1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - HEY, UP HERE!
+  - GOT MYSELF INTO A PICKLE UP HERE...
+  - THESE GNOMES ARE LOCKING UP US DOGS NOW.
+  - SEE THIS DOOR?
+  - I NEED YOU TO FIND THE JAIL KEY FOR ME.
+  - I GOT A BIG RACE COMING UP, MAN.
+  - I'M COUNTING ON YOU!

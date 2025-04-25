@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 742e6e6862d56448d83ff2e9e96649e0, type: 3}
+  m_Name: Birdie-Dialogue2
+  m_EditorClassIdentifier: 
+  dialogue:
+  - ANA! I HAVEN'T FELT THIS ALIVE IN FOREVER.
+  - ALL OF THAT FOR ONE STINKING PETAL, THOUGH.
+  - NO WORRIES - I KNOW WHERE THE NEXT ONE IS.
+  - HAVE YOU EVER BEEN TO NOME, ANA?
+  - A LOT OF MYSTERY HAPPENS THERE.
+  - LET'S HEAD BACK TO LIL TOWN FIRST...
+  - THE BOGEYS ARE OPENING UP GOLFCO.
+  - THERE'S GONNA BE A BIG PARTY!

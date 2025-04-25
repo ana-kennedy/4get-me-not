@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11ee03727f0bd44b9846e89f2cd28017, type: 3}
+  m_Name: OpCutscene
+  m_EditorClassIdentifier: 
+  dialogueText: "ANA,\n\nCOMING HOME SO SOON?\nIT\u2019S BEEN A LONG TIME.\nA LOT
+    HAS CHANGED SINCE YOU WERE HERE.\nI KNOW IT\u2019S GOING TO BE DIFFERENT\u2026\nBUT\u2026\nAFTER
+    A DAY OR TWO?\nIT\u2019LL FEEL LIKE YOU NEVER LEFT.\nI NEVER LEFT, EITHER.\nTHE
+    VOICE INSIDE YOUR HEAD.\nI\u2019LL CATCH UP TO YOU LATER, OKAY?\nWITH LOVE,\nANASTASIA"

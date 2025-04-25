@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 742e6e6862d56448d83ff2e9e96649e0, type: 3}
+  m_Name: Anastasia1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - A LONG TIME AGO...
+  - OVER A HUNDRED YEARS NOW.
+  - I CAME HERE FROM A FAR AWAY PLACE...
+  - THE SAME PLACE AS BIRDIE.
+  - I WAS THE GOLF PRINCESS OF THE UNIVERSE.
+  - MY FAVORITE PLACE TO COME WAS HERE...
+  - LIL TOWN.
+  - THAT'S WHAT I CALL HOME, ANYWAY.
+  - I CAME TO PLAY IN THE TOURNAMENT.
+  - YOU KNOW, THE LIL TOWN ONE?
+  - A GREAT EVIL CAME FROM THE MOUNTAINS.
+  - SHE APPEARED IN FRONT OF ME...
+  - RIGHT AT THE END OF THE TOURNAMENT.
+  - SHE PUT HER HAND OUT, DECEIVINGLY.
+  - SHE SAID TO ME...
+  - '"YOU HAVE BECOME A BRIDGE."'
+  - I FELL ASLEEP.
+  - SHE LOCKED ME IN HERE, THE NOME HOTEL.
+  - THIS WAS A HUNDRED YEARS AGO.
+  - HER NAME...
+  - NATALYA.

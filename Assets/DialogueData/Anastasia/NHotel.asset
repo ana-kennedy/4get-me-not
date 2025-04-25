@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11ee03727f0bd44b9846e89f2cd28017, type: 3}
+  m_Name: NHotel
+  m_EditorClassIdentifier: 
+  dialogueText: 'ANA.
+
+
+    I CAN TELL YOU ARE CLOSE.
+
+    THERE IS AN EVIL IN THIS
+    BUILDING.
+
+    SHE IS LOOKING FOR ME.
+
+    I NEED YOU TO FIND ME.
+
+    BEFORE
+    SHE FINDS ME.
+
+    THERE IS A PETAL IN THIS HOTEL.
+
+    I NEED YOU TO FIND IT
+    BEFORE SHE DOES.
+
+    OR THIS WORLD WILL NEVER BE THE SAME.
+
+
+    YOU HAVE BECOME
+    A BRIDGE.
+
+
+    ANASTASIA.'

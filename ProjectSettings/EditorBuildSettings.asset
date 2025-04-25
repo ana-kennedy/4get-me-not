@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LilTown/MainMenu.unity
+    guid: fc3c1f7577d294c73832619dd686ca9b
+  - enabled: 1
+    path: Assets/Scenes/LilTown/Hub.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/LilTown/Pub.unity
+    guid: 51f6764d2d0b74b948d49826e6826406
+  - enabled: 1
+    path: Assets/Scenes/LilTown/Diner.unity
+    guid: 119c553d5e3af4accba0bfb0e847fbbf
+  - enabled: 1
+    path: Assets/Scenes/LilTown/TheCaveOutside.unity
+    guid: 8f3f81c9f998c4340b96cedda034238e
+  - enabled: 1
+    path: Assets/Scenes/LilTown/TheCaveInside.unity
+    guid: 3cae6e2b080dc4b29a75430b40300ff8
+  - enabled: 1
+    path: Assets/Scenes/LilTown/Inn.unity
+    guid: 7ac3da1515797458396e10b7559b167e
+  - enabled: 1
+    path: Assets/Scenes/Girdwood/GWH1.unity
+    guid: fd872110fdd63428fb6b6eded23aae16
+  - enabled: 1
+    path: Assets/Scenes/Girdwood/GWH2.unity
+    guid: 6847d571a35b44286858fd0fa10b9fa7
+  - enabled: 1
+    path: Assets/Scenes/Girdwood/GWH3.unity
+    guid: 5a5fd24cfa6ab4dc7a5e1da9128d8283
+  - enabled: 1
+    path: Assets/Scenes/Girdwood/GWH4.unity
+    guid: 215e87cf2823b41ed90eb948693d49d1
+  - enabled: 1
+    path: Assets/Scenes/Girdwood/GWBoss.unity
+    guid: 2f50318bec133432b910d40550dfca4b
+  - enabled: 1
+    path: Assets/Scenes/Girdwood/GWHub.unity
+    guid: 8603b8a64bc88482990767533ce29d63
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/OpeningCutscene.unity
+    guid: 37bec4e8b5bf04c21aa626e015d6e58c
+  - enabled: 1
+    path: Assets/Scenes/Nome/NHub.unity
+    guid: 7ae09a9aacf9c4bdea52d382170ab834
+  - enabled: 1
+    path: Assets/Scenes/Nome/NHotel.unity
+    guid: 104b37fd1d9e446a0adba43614f47507
+  - enabled: 1
+    path: Assets/Scenes/Cutscenes/NomeAnastasia01.unity
+    guid: 3df4992eca5e641678b7006205806afa
+  - enabled: 1
+    path: Assets/Scenes/Nome/NCityHall.unity
+    guid: 2c7dbe1ab257346b28585e35fa2a8037
+  - enabled: 1
+    path: Assets/Scenes/Nome/NSaloon.unity
+    guid: 818086ff689bb4b5e9fbf173dafd41ec
+  - enabled: 1
+    path: Assets/Scenes/Nome/NH1.unity
+    guid: 3802332b7bad44fa09e4cfc43b48e996
+  - enabled: 1
+    path: Assets/Scenes/Nome/NH2.unity
+    guid: 4a6358c3dd9924096998c0ea277c5291
+  - enabled: 1
+    path: Assets/Scenes/Nome/NH3.unity
+    guid: aadaa3f0dc6084df9a150eab0568e9f4
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
